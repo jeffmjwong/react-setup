@@ -4,7 +4,9 @@
   "description": "Learn how to setup Babel and Webpack for a new React Project without using create-react-app.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server",
+    "build": "webpack --mode production"
   },
   "author": "Jeff Wong",
   "license": "MIT",
