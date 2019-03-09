@@ -1,0 +1,11 @@
+{
+  "name": "react-setup",
+  "version": "1.0.0",
+  "description": "Learn how to setup Babel and Webpack for a new React Project without using create-react-app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Wong",
+  "license": "MIT"
+}
